@@ -54,6 +54,4 @@ DEFCON	Aug 2025	Las Vegas, USA	...
 
 📜 Licencia
 
-Mi proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
----
+Mi proyecto está bajo la licencia MIT.
